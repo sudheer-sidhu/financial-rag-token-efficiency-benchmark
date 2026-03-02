@@ -1,0 +1,4 @@
+budget,json_tables_fit_mean,toon_tables_fit_mean,tables_gain_mean,json_cells_fit_mean,toon_cells_fit_mean,cells_gain_mean
+4096,0.0,2.0,2.0,0.0,1512.0,1512.0
+8192,1.0,3.0,2.0,756.0,2200.0,1444.0
+16384,3.0,6.0,3.0,2200.0,3752.0,1552.0

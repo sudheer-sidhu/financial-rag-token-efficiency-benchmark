@@ -1,0 +1,1059 @@
+[
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_000",
+    "rows": 5,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_000.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_001",
+    "rows": 11,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_001.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_002",
+    "rows": 28,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_002.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_003",
+    "rows": 9,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_003.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_004",
+    "rows": 4,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_004.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_005",
+    "rows": 8,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_005.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_006",
+    "rows": 8,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_006.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_007",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_007.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_008",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_008.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_009",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_009.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_010",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_010.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_011",
+    "rows": 8,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_011.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_012",
+    "rows": 26,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_012.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_013",
+    "rows": 15,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_013.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_014",
+    "rows": 36,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_014.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_015",
+    "rows": 22,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_015.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_016",
+    "rows": 38,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_016.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_017",
+    "rows": 7,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_017.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_018",
+    "rows": 9,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_018.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_019",
+    "rows": 18,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_019.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_020",
+    "rows": 18,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_020.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_021",
+    "rows": 4,
+    "cols": 5,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_021.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_022",
+    "rows": 6,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_022.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_023",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_023.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_024",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_024.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_025",
+    "rows": 7,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_025.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_026",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_026.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_027",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_027.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_028",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_028.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_029",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_029.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_030",
+    "rows": 14,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_030.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_031",
+    "rows": 10,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_031.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_032",
+    "rows": 20,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_032.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_033",
+    "rows": 8,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_033.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_034",
+    "rows": 11,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_034.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_035",
+    "rows": 10,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_035.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_036",
+    "rows": 8,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_036.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_037",
+    "rows": 12,
+    "cols": 24,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_037.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_038",
+    "rows": 7,
+    "cols": 5,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_038.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_039",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_039.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_040",
+    "rows": 14,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_040.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_041",
+    "rows": 7,
+    "cols": 5,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_041.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_042",
+    "rows": 16,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_042.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_043",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_043.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_044",
+    "rows": 6,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_044.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_045",
+    "rows": 6,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_045.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_046",
+    "rows": 8,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_046.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_047",
+    "rows": 13,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_047.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_048",
+    "rows": 21,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_048.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_049",
+    "rows": 31,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_049.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_050",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_050.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2023-11-03_0000320193-23-000106",
+    "table_id": "table_051",
+    "rows": 23,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2023-11-03_0000320193-23-000106\\table_051.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_000",
+    "rows": 5,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_000.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_001",
+    "rows": 10,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_001.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_002",
+    "rows": 28,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_002.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_003",
+    "rows": 8,
+    "cols": 15,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_003.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_004",
+    "rows": 4,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_004.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_005",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_005.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_006",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_006.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_007",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_007.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_008",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_008.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_009",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_009.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_010",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_010.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_011",
+    "rows": 8,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_011.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_012",
+    "rows": 26,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_012.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_013",
+    "rows": 15,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_013.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_014",
+    "rows": 36,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_014.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_015",
+    "rows": 22,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_015.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_016",
+    "rows": 37,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_016.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_017",
+    "rows": 7,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_017.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_018",
+    "rows": 9,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_018.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_019",
+    "rows": 18,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_019.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_020",
+    "rows": 18,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_020.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_021",
+    "rows": 6,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_021.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_022",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_022.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_023",
+    "rows": 7,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_023.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_024",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_024.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_025",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_025.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_026",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_026.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_027",
+    "rows": 14,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_027.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_028",
+    "rows": 10,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_028.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_029",
+    "rows": 20,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_029.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_030",
+    "rows": 8,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_030.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_031",
+    "rows": 11,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_031.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_032",
+    "rows": 10,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_032.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_033",
+    "rows": 8,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_033.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_034",
+    "rows": 10,
+    "cols": 24,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_034.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_035",
+    "rows": 7,
+    "cols": 5,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_035.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_036",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_036.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_037",
+    "rows": 14,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_037.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_038",
+    "rows": 7,
+    "cols": 5,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_038.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_039",
+    "rows": 16,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_039.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_040",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_040.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_041",
+    "rows": 6,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_041.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_042",
+    "rows": 6,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_042.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_043",
+    "rows": 8,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_043.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_044",
+    "rows": 13,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_044.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_045",
+    "rows": 20,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_045.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_046",
+    "rows": 34,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_046.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_047",
+    "rows": 4,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_047.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_048",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_048.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2024-11-01_0000320193-24-000123",
+    "table_id": "table_049",
+    "rows": 21,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2024-11-01_0000320193-24-000123\\table_049.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_000",
+    "rows": 5,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_000.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_001",
+    "rows": 9,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_001.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_002",
+    "rows": 28,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_002.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_003",
+    "rows": 8,
+    "cols": 15,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_003.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_004",
+    "rows": 4,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_004.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_005",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_005.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_006",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_006.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_007",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_007.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_008",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_008.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_009",
+    "rows": 7,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_009.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_010",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_010.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_011",
+    "rows": 8,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_011.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_012",
+    "rows": 26,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_012.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_013",
+    "rows": 15,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_013.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_014",
+    "rows": 36,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_014.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_015",
+    "rows": 22,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_015.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_016",
+    "rows": 37,
+    "cols": 18,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_016.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_017",
+    "rows": 8,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_017.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_018",
+    "rows": 9,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_018.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_019",
+    "rows": 18,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_019.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_020",
+    "rows": 18,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_020.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_021",
+    "rows": 6,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_021.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_022",
+    "rows": 7,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_022.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_023",
+    "rows": 4,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_023.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_024",
+    "rows": 5,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_024.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_025",
+    "rows": 14,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_025.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_026",
+    "rows": 9,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_026.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_027",
+    "rows": 18,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_027.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_028",
+    "rows": 8,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_028.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_029",
+    "rows": 11,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_029.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_030",
+    "rows": 10,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_030.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_031",
+    "rows": 8,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_031.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_032",
+    "rows": 12,
+    "cols": 24,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_032.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_033",
+    "rows": 7,
+    "cols": 5,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_033.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_034",
+    "rows": 5,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_034.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_035",
+    "rows": 6,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_035.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_036",
+    "rows": 7,
+    "cols": 5,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_036.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_037",
+    "rows": 8,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_037.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_038",
+    "rows": 8,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_038.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_039",
+    "rows": 8,
+    "cols": 42,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_039.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_040",
+    "rows": 6,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_040.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_041",
+    "rows": 6,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_041.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_042",
+    "rows": 8,
+    "cols": 6,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_042.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_043",
+    "rows": 12,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_043.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_044",
+    "rows": 19,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_044.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_045",
+    "rows": 30,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_045.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_046",
+    "rows": 4,
+    "cols": 21,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_046.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_047",
+    "rows": 4,
+    "cols": 12,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_047.csv"
+  },
+  {
+    "filing": "AAPL_10-K_2025-10-31_0000320193-25-000079",
+    "table_id": "table_048",
+    "rows": 21,
+    "cols": 9,
+    "csv_path": "E:\\APU\\sem 2\\toon-finrag\\data\\processed\\tables\\AAPL\\10-K\\AAPL_10-K_2025-10-31_0000320193-25-000079\\table_048.csv"
+  }
+]

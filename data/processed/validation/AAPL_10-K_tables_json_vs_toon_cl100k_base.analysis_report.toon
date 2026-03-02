@@ -1,0 +1,70 @@
+config:
+  ticker: AAPL
+  form: 10-K
+  encoding_name: cl100k_base
+  min_rows: 4
+  min_cols: 3
+  top_n_tables_per_filing: 30
+  context_budgets[3]: 4096,8192,16384
+  prompt_overhead_tokens: 500
+  order_by_for_context_packing: cells_desc
+distribution_token_reduction_pct:
+  mean: 47.65195030241873
+  median: 48.81081081081081
+  std: 9.441897640589975
+  p5: 27.250673854447438
+  p25: 43.59246532213087
+  p50: 48.81081081081081
+  p75: 53.25873230371385
+  p95: 65.42857142857143
+distribution_token_reduction_pct_by_filing:
+  "AAPL_10-K_2023-11-03_0000320193-23-000106":
+    mean: 47.54134567746948
+    median: 48.85852960711184
+    std: 9.422696288639402
+    p5: 30.73189187769631
+    p25: 43.99888504135774
+    p50: 48.85852960711184
+    p75: 51.80558247920713
+    p95: 63.64417136648211
+  "AAPL_10-K_2024-11-01_0000320193-24-000123":
+    mean: 47.13822517300344
+    median: 47.99138556688019
+    std: 9.458040330891704
+    p5: 30.53806367013914
+    p25: 42.39710902505834
+    p50: 47.99138556688019
+    p75: 51.76675157130915
+    p95: 63.64417136648211
+  "AAPL_10-K_2025-10-31_0000320193-25-000079":
+    mean: 48.27628005678328
+    median: 49.231330705481255
+    std: 9.729640268185992
+    p5: 31.42360709753329
+    p25: 43.59246532213087
+    p50: 49.231330705481255
+    p75: 53.925028174011516
+    p95: 63.71240146093555
+relationships:
+  pearson_corr_with_token_reduction:
+    rows: 0.13040699938232186
+    cols: 0.44647018185540394
+    cells: 0.39290877444599287
+    numeric_frac: 0.12806809493256377
+    avg_decimal_places: -0.5149493784488469
+    max_decimal_places: -0.03817482509417608
+context_utilization_by_filing_and_budget[9]{filing,budget,overhead,effective_budget,order_by,json_tables_fit,toon_tables_fit,tables_gain,tables_gain_pct,json_cells_fit,toon_cells_fit,cells_gain,cells_gain_pct,json_tokens_used,toon_tokens_used}:
+  AAPL_10-K_2023-11-03_0000320193-23-000106,4096,500,3596,cells,0,2,2,null,0,1512,1512,null,0,2905
+  AAPL_10-K_2023-11-03_0000320193-23-000106,8192,500,7692,cells,1,3,2,200.0,756,2196,1440,190.48,4200,4905
+  AAPL_10-K_2023-11-03_0000320193-23-000106,16384,500,15884,cells,3,6,3,100.0,2196,3756,1560,71.04,12774,15025
+  AAPL_10-K_2024-11-01_0000320193-24-000123,4096,500,3596,cells,0,2,2,null,0,1512,1512,null,0,2899
+  AAPL_10-K_2024-11-01_0000320193-24-000123,8192,500,7692,cells,1,3,2,200.0,756,2226,1470,194.44,4197,6783
+  AAPL_10-K_2024-11-01_0000320193-24-000123,16384,500,15884,cells,3,6,3,100.0,2226,3792,1566,70.35,14902,11284
+  AAPL_10-K_2025-10-31_0000320193-25-000079,4096,500,3596,cells,0,2,2,null,0,1512,1512,null,0,2872
+  AAPL_10-K_2025-10-31_0000320193-25-000079,8192,500,7692,cells,1,3,2,200.0,756,2178,1422,188.1,4181,4845
+  AAPL_10-K_2025-10-31_0000320193-25-000079,16384,500,15884,cells,3,6,3,100.0,2178,3708,1530,70.25,12661,11188
+context_utilization_summary_by_budget[3]{budget,json_tables_fit_mean,toon_tables_fit_mean,tables_gain_mean,json_cells_fit_mean,toon_cells_fit_mean,cells_gain_mean}:
+  4096,0.0,2.0,2.0,0.0,1512.0,1512.0
+  8192,1.0,3.0,2.0,756.0,2200.0,1444.0
+  16384,3.0,6.0,3.0,2200.0,3752.0,1552.0
+notes[3]: token_reduction_pct = (1 - toon_tokens/json_tokens) * 100,context packing uses greedy packing in descending order of cells within each filing,effective_budget = budget - prompt_overhead_tokens (floored at 0)

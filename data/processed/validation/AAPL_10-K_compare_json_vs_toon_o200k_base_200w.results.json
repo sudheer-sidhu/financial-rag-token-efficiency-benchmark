@@ -1,0 +1,38 @@
+[
+  {
+    "file": "AAPL_10-K_2023-11-03_0000320193-23-000106.txt",
+    "chunks": 153,
+    "chunk_words": 200,
+    "encoding": "o200k_base",
+    "json_bytes": 260879,
+    "json_tokens": 64785,
+    "toon_bytes": 258896,
+    "toon_tokens": 63700,
+    "bytes_saving_pct": 0.76,
+    "tokens_saving_pct": 1.67
+  },
+  {
+    "file": "AAPL_10-K_2024-11-01_0000320193-24-000123.txt",
+    "chunks": 155,
+    "chunk_words": 200,
+    "encoding": "o200k_base",
+    "json_bytes": 263571,
+    "json_tokens": 64906,
+    "toon_bytes": 261562,
+    "toon_tokens": 63807,
+    "bytes_saving_pct": 0.76,
+    "tokens_saving_pct": 1.69
+  },
+  {
+    "file": "AAPL_10-K_2025-10-31_0000320193-25-000079.txt",
+    "chunks": 156,
+    "chunk_words": 200,
+    "encoding": "o200k_base",
+    "json_bytes": 265673,
+    "json_tokens": 65145,
+    "toon_bytes": 263651,
+    "toon_tokens": 64034,
+    "bytes_saving_pct": 0.76,
+    "tokens_saving_pct": 1.71
+  }
+]

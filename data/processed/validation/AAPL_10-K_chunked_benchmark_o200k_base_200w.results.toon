@@ -1,0 +1,4 @@
+[3]{file,chunks,words_per_chunk,encoding,json_total_bytes,json_total_tokens,toon_total_bytes,toon_total_tokens,bytes_saving_pct,tokens_saving_pct}:
+  AAPL_10-K_2023-11-03_0000320193-23-000106.txt,153,200,o200k_base,231565,52935,220418,49558,4.81,6.38
+  AAPL_10-K_2024-11-01_0000320193-24-000123.txt,155,200,o200k_base,233871,52900,222578,49481,4.83,6.46
+  AAPL_10-K_2025-10-31_0000320193-25-000079.txt,156,200,o200k_base,235780,53061,224414,49616,4.82,6.49

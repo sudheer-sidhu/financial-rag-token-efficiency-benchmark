@@ -1,0 +1,38 @@
+[
+  {
+    "file": "AAPL_10-K_2023-11-03_0000320193-23-000106.txt",
+    "raw_words": 30475,
+    "raw_chars": 214509,
+    "raw_bytes": 215839,
+    "raw_tokens_est": 53627,
+    "json_chars": 218432,
+    "json_bytes": 219762,
+    "json_tokens_est": 54608,
+    "json_overhead_bytes": 3923,
+    "json_overhead_pct": 1.82
+  },
+  {
+    "file": "AAPL_10-K_2024-11-01_0000320193-24-000123.txt",
+    "raw_words": 30906,
+    "raw_chars": 216539,
+    "raw_bytes": 217939,
+    "raw_tokens_est": 54135,
+    "json_chars": 220327,
+    "json_bytes": 221727,
+    "json_tokens_est": 55082,
+    "json_overhead_bytes": 3788,
+    "json_overhead_pct": 1.74
+  },
+  {
+    "file": "AAPL_10-K_2025-10-31_0000320193-25-000079.txt",
+    "raw_words": 31134,
+    "raw_chars": 218311,
+    "raw_bytes": 219747,
+    "raw_tokens_est": 54578,
+    "json_chars": 222061,
+    "json_bytes": 223497,
+    "json_tokens_est": 55515,
+    "json_overhead_bytes": 3750,
+    "json_overhead_pct": 1.71
+  }
+]

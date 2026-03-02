@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41
+,,,2023,2023,2023,2023.0,2023.0,2023.0,2023,2023,2023,2023.0,2023.0,2023.0,2023,2023,2023,2023.0,2023.0,2023.0,2023,2023,2023,2023.0,2023.0,2023.0,2023,2023,2023,2023.0,2023.0,2023.0,2023,2023,2023,2023.0,2023.0,2023.0,2023,2023,2023
+,,,Adjusted Cost,Adjusted Cost,Adjusted Cost,,,,Unrealized Gains,Unrealized Gains,Unrealized Gains,,,,Unrealized Losses,Unrealized Losses,Unrealized Losses,,,,Fair Value,Fair Value,Fair Value,,,,Cash and Cash Equivalents,Cash and Cash Equivalents,Cash and Cash Equivalents,,,,Current Marketable Securities,Current Marketable Securities,Current Marketable Securities,,,,Non-Current Marketable Securities,Non-Current Marketable Securities,Non-Current Marketable Securities
+Cash,Cash,Cash,$,28359,,,,,$,—,,,,,$,—,,,,,$,28359,,,,,$,28359,,,,,$,—,,,,,$,—,
+Level 1:,Level 1:,Level 1:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Money market funds,Money market funds,Money market funds,481,481,,,,,—,—,,,,,—,—,,,,,481,481,,,,,481,481,,,,,—,—,,,,,—,—,
+Mutual funds and equity securities,Mutual funds and equity securities,Mutual funds and equity securities,442,442,,,,,12,12,,,,,(26),(26),,,,,428,428,,,,,—,—,,,,,428,428,,,,,—,—,
+Subtotal,Subtotal,Subtotal,923,923,,,,,12,12,,,,,(26),(26),,,,,909,909,,,,,481,481,,,,,428,428,,,,,—,—,
+Level 2 (1):,Level 2 (1):,Level 2 (1):,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+U.S. Treasury securities,U.S. Treasury securities,U.S. Treasury securities,19406,19406,,,,,—,—,,,,,"(1,292)","(1,292)",,,,,18114,18114,,,,,35,35,,,,,5468,5468,,,,,12611,12611,
+U.S. agency securities,U.S. agency securities,U.S. agency securities,5736,5736,,,,,—,—,,,,,(600),(600),,,,,5136,5136,,,,,36,36,,,,,271,271,,,,,4829,4829,
+Non-U.S. government securities,Non-U.S. government securities,Non-U.S. government securities,17533,17533,,,,,6,6,,,,,"(1,048)","(1,048)",,,,,16491,16491,,,,,—,—,,,,,11332,11332,,,,,5159,5159,
+Certificates of deposit and time deposits,Certificates of deposit and time deposits,Certificates of deposit and time deposits,1354,1354,,,,,—,—,,,,,—,—,,,,,1354,1354,,,,,1034,1034,,,,,320,320,,,,,—,—,
+Commercial paper,Commercial paper,Commercial paper,608,608,,,,,—,—,,,,,—,—,,,,,608,608,,,,,—,—,,,,,608,608,,,,,—,—,
+Corporate debt securities,Corporate debt securities,Corporate debt securities,76840,76840,,,,,6,6,,,,,"(5,956)","(5,956)",,,,,70890,70890,,,,,20,20,,,,,12627,12627,,,,,58243,58243,
+Municipal securities,Municipal securities,Municipal securities,628,628,,,,,—,—,,,,,(26),(26),,,,,602,602,,,,,—,—,,,,,192,192,,,,,410,410,
+Mortgage- and asset-backed securities,Mortgage- and asset-backed securities,Mortgage- and asset-backed securities,22365,22365,,,,,6,6,,,,,"(2,735)","(2,735)",,,,,19636,19636,,,,,—,—,,,,,344,344,,,,,19292,19292,
+Subtotal,Subtotal,Subtotal,144470,144470,,,,,18,18,,,,,"(11,657)","(11,657)",,,,,132831,132831,,,,,1125,1125,,,,,31162,31162,,,,,100544,100544,
+Total (2),Total (2),Total (2),$,173752,,,,,$,30,,,,,$,"(11,683)",,,,,$,162099,,,,,$,29965,,,,,$,31590,,,,,$,100544,
