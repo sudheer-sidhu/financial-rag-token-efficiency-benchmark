@@ -1,6 +1,7 @@
-**Financial RAG Token Efficiency Benchmark
-TOON vs JSON for Structured Financial Tables (10-K Filings)
-Overview**
+
+**TOON vs JSON for Structured Financial Tables (10-K Filings)**
+
+**Overview**
 
 Large Language Models operate under strict context window limits.
 Financial documents such as SEC 10-K filings contain dense, multi-column tables that rapidly exhaust these token budgets when encoded in JSON.
@@ -125,3 +126,4 @@ Apply TOON to multi-company comparative analysis
 Benchmark under 128K context models
 
 Integrate into production financial RAG systems
+
